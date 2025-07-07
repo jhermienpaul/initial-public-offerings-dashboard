@@ -1,7 +1,7 @@
 <h1 align="center">Initial Public Offerings Dashboard</h1>
 
 <p align="center">
-  <i>Power BI dashboard delivering Superstore sales analytics featuring interactive overview metrics, trend analysis, customer and product insights, regional rankings, key influencers and dynamic filters</i>
+  <i>Power BI dashboard delivering comprehensive insights into IPO trends, filings, withdrawals, and historical data with interactive visuals, detailed company metrics, and intuitive navigation</i>
   <br><br>
   <a href="https://www.novypro.com/profile_projects/jhermienpaul" target="_blank">
     <img src="https://img.shields.io/badge/VIEW%20DASHBOARD%20ON%20POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="View Dashboard on Power BI"/>
